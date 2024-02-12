@@ -2,8 +2,6 @@
 <h2>--Timer_LE--</h2>
 <p> A timer app for rubik lovers</p>
 
-<p>Timer que funciona com o teclado, podendo fazer a arte da gambiarra como no video abaixo usando esse app</p>
-
 <p>Timer que funciona com o teclado, podendo fazer a arte da gambiarra como no video abaixo usando esse app
 {
 esse timer foi feio da seguinte forma.
@@ -17,8 +15,6 @@ esse timer foi feio da seguinte forma.
 4: use um OTG para   conectar ao celular, ou conecte ao computador e use o CSTIMER.
 }
 </p>
-
-<p>Timer that works with the keyboard, allowing you to perform trick art like in the video below using this app</p>
 
 <p>
   Timer that works with the keyboard, allowing you to perform trick art like in the video below using this app
