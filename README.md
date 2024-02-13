@@ -4,7 +4,7 @@
 
 <p>Timer que funciona com o teclado, podendo fazer a arte da gambiarra como no video abaixo usando esse app
 {
-esse timer foi feio da seguinte forma.
+esse timer fisico foi feio da seguinte forma.
 
 1: desmonte um teclado
 
@@ -19,7 +19,7 @@ esse timer foi feio da seguinte forma.
 <p>
   Timer that works with the keyboard, allowing you to perform trick art like in the video below using this app
 {
-This timer was ugly in the following way.
+this physical timer was ugly in the following way.
 
 1: disassemble a keyboard
 
